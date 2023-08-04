@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "randomideas",
+  "version": "1.0.0",
+  "description": "Idea Sharing app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "David Gotsiridze",
+  "license": "MIT"
+}
